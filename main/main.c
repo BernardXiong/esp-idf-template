@@ -14,7 +14,6 @@
 #include <shell.h>
 #include <msh.h>
 
-#include "bta_api.h"
 #include "esp_system.h"
 #include "esp_wifi.h"
 #include "esp_event_loop.h"
